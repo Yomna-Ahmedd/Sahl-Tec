@@ -1,0 +1,144 @@
+/*smart phone and tablet*/
+
+@media (max-width: 767px) {
+    /* hr {
+        width: 400px;
+    } */
+    /*start navbar*/
+    .navbar-light .navbar-toggler {
+        border: none;
+        margin-top: 20px
+    }
+    .navbar-light .navbar-toggler-icon {
+        padding: 20px;
+    }
+    .navbar ul {
+        padding-left: 20px;
+    }
+    .navbar ul .nav-item:first-of-type {
+        width: 45px
+    }
+    .navbar ul .nav-item:nth-child(2) {
+        width: 64px
+    }
+    .navbar ul .nav-item:nth-child(3) {
+        width: 115px
+    }
+    .navbar ul .nav-item:nth-child(4) {
+        width: 123px
+    }
+    .navbar ul .nav-item:nth-child(5) {
+        width: 105px
+    }
+    .navbar ul .nav-item:nth-child(6) {
+        width: 120px
+    }
+    .navbar ul .nav-item:last-child {
+        width: 147px
+    }
+    /*start slider*/
+    .about-slid {
+        margin-top: 25%;
+        margin-right: 0px !important;
+    }
+    .about-slid h1 {
+        letter-spacing: 0;
+        font-size: 40px;
+        color: #fff;
+    }
+    .about-slid h2 {
+        color: #fff;
+    }
+    .about-slid p {
+        font-weight: bolder;
+        color: #fff;
+    }
+    .layout-a {
+        background-color: rgb(0 0 0 / 39%);
+        width: 100%;
+        height: 100%
+    }
+    .about-slid a>img {
+        width: 180px;
+    }
+    /*start Advantages*/
+    .application .step h1 {
+        padding-bottom: 0px !important;
+    }
+    .application .card {
+        width: 100%;
+    }
+    .application .card .card-img-top {
+        margin-left: 150px;
+    }
+    /*start app works*/
+    .app .col-md-4 {
+        padding: 20px
+    }
+    /*Start The Best*/
+    .the-best h2 {
+        text-decoration: underline;
+    }
+    .the-best p {
+        font-size: 16px
+    }
+    .the-best .prop img {
+        width: 214px;
+    }
+    /*Start Screenshots*/
+    .screenshots .shots {
+        margin-bottom: 40px;
+    }
+    .screenshots .shots {
+        margin-bottom: 20px;
+    }
+    .screenshots .shots h2 {
+        padding: 10px;
+    }
+    .carousel .carousel-item img {
+        height: 425px;
+        width: 54%;
+    }
+    .carousel a {
+        display: none;
+    }
+    /*Start Available about*/
+    .available img {
+        width: 170px;
+        padding: 0px;
+    }
+    .available .about h2 {
+        font-size: 22px;
+        margin-top: 20px
+    }
+    .available .about p {
+        font-size: 16px;
+        font-weight: 400
+    }
+    /*Srart Regester As Expert*/
+    .regester .row img {
+        margin-bottom: 20px;
+    }
+    /*start footer*/
+    .footer {
+        text-align: center;
+    }
+    .footer p {
+        font-size: 22px
+    }
+    .footer ul {
+        margin-left: 10%
+    }
+    .footer .ender .other-img img {
+        width: 180px;
+        height: 60px
+    }
+}
+
+
+/*
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;
+*/

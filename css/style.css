@@ -1,0 +1,221 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/*start slide*/
+
+.lay-slider {
+    background: url('../img/315-1.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+/*.lay-slider .about-slid{text-align: center;}*/
+
+.about-slid h1 {
+    padding-bottom: 20px;
+    color: #0f3461;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+.about-slid h2 {
+    color: #2b5e7b;
+}
+
+.about-slid p {
+    color: #2b5e7b;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 30px
+}
+
+.about-slid a {
+    padding: 20px
+}
+
+
+/*end slide*/
+
+
+/*start Advantages*/
+
+.application .step {
+    width: auto
+}
+
+.application .step h1 {
+    color: #0f3461;
+    font-weight: bold;
+    padding: 60px 0px 20px 0px;
+}
+
+.application .card {
+    background-color: #5085a4;
+    color: #FFF;
+    height: 350px;
+    margin-top: 30px;
+    width: 22rem;
+}
+
+.application .card .card-img-top {
+    width: 150px;
+    margin-left: 100px;
+}
+
+
+/*end Advantages*/
+
+
+/*start app works*/
+
+.app {
+    background: url('../img/image9.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 60px 0px 0px 0px;
+}
+
+.app .works {
+    background: #458db6;
+    padding: 10px;
+}
+
+.app .works h2 {
+    font-weight: bold;
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.app .works .row h3 {
+    color: #FFF;
+}
+
+.app .works .row p {
+    color: #FFF;
+}
+
+
+/*end app works*/
+
+
+/*start the best*/
+
+.the-best h2 {
+    color: #458db6;
+    font-weight: bold;
+}
+
+.the-best p {
+    color: #458db6;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.the-best .prop img {
+    width: 300px;
+    padding: 10px
+}
+
+
+/*end the best*/
+
+
+/*Start Screenshots*/
+
+
+/* .screenshots {
+    background: url('../img/gallery/istockphoto-1221451209-170667a.jpg')no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 20px;
+}
+
+.screenshots .shots {
+    width: 300px;
+    margin-bottom: 10px;
+    display: inline-block;
+    background-color: #458db6;
+}
+
+.screenshots .shots h2 {
+    color: #FFF;
+    padding: 30px 0px 20px 0px;
+}
+
+.carousel .carousel-item img {
+    height: 525px;
+    width: 35%;
+} */
+
+
+/*end Screenshots*/
+
+
+/*Start Available about*/
+
+.available img {
+    width: 300px;
+    padding: 10px
+}
+
+.available .about h2 {
+    color: #458db6;
+    font-weight: bold;
+}
+
+.available .about p {
+    color: #458db6;
+    font-weight: 600;
+}
+
+
+/*end Available about*/
+
+hr {
+    /* width: 1000px; */
+    border-top: 2px solid #458db6;
+}
+
+
+/*Srart Regester As Expert*/
+
+.regester h2 {
+    color: #458db6;
+}
+
+.regester .row img {
+    width: 100%;
+    box-shadow: -7px -7px 20px 0px #458db6;
+}
+
+.regester .form-group label {
+    color: #458db6;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: underline
+}
+
+.regester button {
+    background-color: #458db6;
+}
+
+.regester button:hover {
+    background-color: #458db6;
+}
+
+
+/*End Regester As Expert*/
